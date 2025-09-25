@@ -18,7 +18,7 @@ Session structure: Two-hour classroom session, consisting of several lecture seg
 Part 1: Environmental Legal Action, Scientific Evidence and Citizen Data
 ------------------------------------------------------------------------
 
-Instructor: Chris Nidel, Esq. ({{% resource_link "29585f77-5aef-42a9-8962-1559094c5a92" "environmental attorney" %}}, {{% resource_link "d71a277c-14ad-4260-879c-e407ac77bf2a" "MITACAL" %}})
+Instructor: Chris Nidel, Esq. ([environmental attorney](http://www.nidellaw.com/), [MITACAL](http://www.mitacal.org/))
 
 Learn about how citizen-collected data can be used in environmental legal cases. For instance, how do courts decide whether particular data is admissable as evidence?
 
@@ -27,7 +27,7 @@ Learn about how citizen-collected data can be used in environmental legal cases.
 Part 2: Bringing Climate Data into Business and Personal Choices — Fixing the Carbon Footprint
 ----------------------------------------------------------------------------------------------
 
-Instructor: Ory Zik ({{% resource_link "ae3aa78a-bef7-48c6-913e-976f09c0ea88" "Greenometry" %}})
+Instructor: Ory Zik ([Greenometry](https://opencorporates.com/companies/us_ma/001259502))
 
 Learn how better measurement of carbon footprints, as embodied in products and services, can bring market forces more effectively to bear on the climate crisis.
 
@@ -40,7 +40,7 @@ Part 3: Debrief on Methane Leak Data Field Trip
 
 Display and discuss the prior day's field data collection on methane gas leaks. Consider the strengths and weaknesses of the methods used, and implications for the next generation of tools. Discuss the overall state of methane leak measurement, fixes, and policies.
 
-Instructors: {{% resource_link "3f4ffd78-3735-4d90-adcb-0f0daa9ba0aa" "Nathan Phillips" %}} (Boston University), Audrey Schulman ({{% resource_link "00bc092b-8551-49d0-8710-ceeb284373c1" "HEET" %}})
+Instructors: [Nathan Phillips](https://www.bu.edu/earth/people/faculty/nathan-phillips/) (Boston University), Audrey Schulman ([HEET](https://www.heetma.org/))
 
 {{< resource 9e4af4db-b436-cc22-02eb-d20656a3f619 >}}
 

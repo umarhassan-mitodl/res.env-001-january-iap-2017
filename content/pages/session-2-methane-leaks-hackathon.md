@@ -25,7 +25,7 @@ Part 1: More About Methane Leaks
 
 A brief lecture and discussion about methane leaks, building on {{% resource_link 49e35f61-19cd-6058-264d-74acd3e72ae8 "Session 1" %}}, to orient all hackathon participants to the nature of the challenge. 
 
-Instructors: {{% resource_link "3f4ffd78-3735-4d90-adcb-0f0daa9ba0aa" "Nathan Phillips" %}} (Boston University), Audrey Schulman ({{% resource_link "00bc092b-8551-49d0-8710-ceeb284373c1" "HEET" %}})
+Instructors: [Nathan Phillips](https://www.bu.edu/earth/people/faculty/nathan-phillips/) (Boston University), Audrey Schulman ([HEET](https://www.heetma.org/))
 
 {{< resource 856a6aa9-6c9e-d4f5-674a-d66829e1f7f9 >}}
 
@@ -50,7 +50,7 @@ Explore tangible, specific solutions to the methane leak measurement problem, co
 
 The following photos and video illustrate the nature of the discussions and the process in one of the hackathon groups.
 
-Instructors: Audrey Schulman ({{% resource_link "00bc092b-8551-49d0-8710-ceeb284373c1" "HEET" %}}), Zeyneb Magavi ({{% resource_link "afc4c863-4710-4e31-a203-5e84b578ebf8" "Mothers Out Front" %}})
+Instructors: Audrey Schulman ([HEET](https://www.heetma.org/)), Zeyneb Magavi ([Mothers Out Front](http://www.mothersoutfront.org/))
 {{< image-gallery id="47d4b42a-d6c1-7b8f-5d91-d8855bfce784_nanogallery2" baseUrl="/courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/" >}}
 {{< image-gallery-item href="b3194aef20e72e7c6d1fb592b33e88ae_1_hack_handheld.jpg" data-ngdesc="Instructor Nathan Phillips explains the use of a handheld monitor to measure the concentration of methane in air around a leak. Photo courtesy of Marilyn Humphries / Salem Alliance for the Environment (SAFE)." text="Instructor Nathan Phillips explains the use of a handheld monitor to measure the concentration of methane in air around a leak." >}}
 {{< image-gallery-item href="5856a34cf8acb97f03e05fe17ec4c19b_2_hack_purger.jpg" data-ngdesc="Hackathon participants work on how to adapt the bar hole purger (a familiar tool for natural gas crews) to measure gas leak volume. Photo courtesy of Marilyn Humphries / Salem Alliance for the Environment (SAFE)." text="Hackathon participants work on how to adapt the bar hole purger (a familiar tool for natural gas crews) to measure gas leak volume." >}}
@@ -67,7 +67,7 @@ Instructors: Audrey Schulman ({{% resource_link "00bc092b-8551-49d0-8710-ceeb284
 We have mounds of data on gas leaks, and would like to make more effective use of it. Data sources include:
 
 *   Utility-reported leak data and gas main replacement plans.
-*   {{% resource_link "8ec4c106-3b31-4167-b6b1-652b36a4c4b1" "HEET \"Squeaky Leaks\"" %}} maps and data of over 200 MA communities.
+*   [HEET "Squeaky Leaks"](https://www.heetma.org/squeaky-leak/) maps and data of over 200 MA communities.
 
 What projects could be done? Some possible directions: Database building, app development, data collection equipment design / construction, data visualization, GIS data processing and Google Earth maps, animation / infographic design for public campaigns, emissions modeling...
 
@@ -86,12 +86,12 @@ No direct documentation is available from this wrapup and synthesis segment.
 Postscript
 ----------
 
-Throughout 2017, {{% resource_link "afc4c863-4710-4e31-a203-5e84b578ebf8" "Mothers Out Front" %}} and the Gas Leaks Allies coalition continued on some of the concepts explored in this hackathon. In October 2017, they announced successful results with a test methodology to measure gas leak volume using the FLUXBar tool.
+Throughout 2017, [Mothers Out Front](http://www.mothersoutfront.org/) and the Gas Leaks Allies coalition continued on some of the concepts explored in this hackathon. In October 2017, they announced successful results with a test methodology to measure gas leak volume using the FLUXBar tool.
 
 {{< resource a8179aab-0a83-d735-252d-7f6cf7db9d51 >}}
 
-This video is from {{% resource_link "8760a29d-6c40-4301-827d-07f325076874" "HEET (Home Energy Efficiency Team)" %}} on YouTube and is not covered by our [Creative Commons license](/terms/#cc).
+This video is from [HEET (Home Energy Efficiency Team)](https://www.youtube.com/channel/UCUtMW8wHJ25t-sqIrl6sYSg) on YouTube and is not covered by our [Creative Commons license](/terms/#cc).
 
-See the Gas Leaks Allies' "{{% resource_link "af5539e0-bb96-4d0a-b63e-cb00632285c0" "Common Ground, Uncommon Partners" %}}," featuring video of their October 3, 2017 symposium at MIT.
+See the Gas Leaks Allies' "[Common Ground, Uncommon Partners](https://medium.com/gas-leaks-allies/summit/home)," featuring video of their October 3, 2017 symposium at MIT.
 
-News coverage: Craig LeMoult. "{{% resource_link "62898a91-528e-4d25-b0a4-5fb2d3d746bb" "In An Unlikely Partnership, Local Environmentalists And Utilities Work Together To Reduce Gas Leaks" %}}." _WGBH News_, November 29, 2017.
+News coverage: Craig LeMoult. "[In An Unlikely Partnership, Local Environmentalists And Utilities Work Together To Reduce Gas Leaks](https://news.wgbh.org/2017/11/29/local-news/unlikely-partnership-local-environmentalists-and-utilities-work-together)." _WGBH News_, November 29, 2017.
