@@ -1,0 +1,67 @@
+{
+  "term": "January IAP",
+  "year": "2017",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Climate"
+    ],
+    [
+      "Energy",
+      "Fossil Fuels"
+    ],
+    [
+      "Engineering",
+      "Environmental Engineering",
+      "Environmental Management"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Environmental Policy"
+    ]
+  ],
+  "legacy_uid": "b7f650e9-5cca-febf-3b33-43920b354823",
+  "instructors": {
+    "content": [
+      "5751a0fc-f84e-1760-382c-dd30ecd58bdf",
+      "fa0eded2-b448-83cd-71b3-0279c415255a",
+      "b3367819-eb1d-abf8-6345-333303c7e91a",
+      "b803e673-e69c-c233-d305-b52eccb83831",
+      "dfd7827a-8f1c-c9cf-ef33-6036449e8c2e",
+      "a6f1c669-dee2-c1b0-520a-be0da38949c1",
+      "80321997-4119-1412-fab8-20d5b6e39040",
+      "b119fc7d-c27f-948f-df62-1e5d29380a3f",
+      "6dc04bc0-b120-096f-cd79-e18285e450ed"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6c42c4fa-9fd6-10ae-5240-d92dacf971a5",
+    "website": "res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017"
+  },
+  "course_title": "Climate Action Hands-On: Harnessing Science with Communities to Cut Carbon",
+  "hide_download": false,
+  "course_description": "This course explores how citizen science can support community actions to combat climate change. Participants will learn about framing problems, design ways to gather data, gather some of their own field data, and consider how the results can enable action. Leaks in the natural gas system\u2014a major source of methane emissions, and a powerful contributor to climate change\u2014will be a particular focus.\n\nThe course was organized by [ClimateX](https://climatex.mit.edu/) and [Fossil Free MIT](http://www.fossilfreemit.org/), with support from the National Science Foundation for the methane monitoring equipment. It was offered during the Independent Activities Period (IAP), which is a special 4-week January term at MIT.\n",
+  "department_numbers": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.ENV-001",
+  "course_image_thumbnail": {
+    "content": "f0ca7ff1-089e-461b-6734-d6a8bdb0ef76",
+    "website": "res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017"
+  },
+  "learning_resource_types": [
+    "Image Gallery",
+    "Lecture Videos",
+    "Workshop Videos",
+    "Video Materials",
+    "Lecture Notes"
+  ],
+  "site_uid": "e97899f2-6389-40c5-a95d-7f5faec0cbfc",
+  "site_short_id": "res.env-001-january-iap-2017",
+  "site_url_path": "courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017",
+  "title": "Course Metadata"
+}

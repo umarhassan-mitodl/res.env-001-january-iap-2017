@@ -1,0 +1,21 @@
+leftnav:
+- identifier: c881357a-7106-6a96-50d6-4ef29715ad72
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 49e35f61-19cd-6058-264d-74acd3e72ae8
+  name: 'Session 1: Citizen Science and Climate Action'
+  pageRef: /pages/session-1-citizen-science-and-climate-action
+  weight: 20
+- identifier: 47d4b42a-d6c1-7b8f-5d91-d8855bfce784
+  name: 'Session 2: Methane Leaks Hackathon'
+  pageRef: /pages/session-2-methane-leaks-hackathon
+  weight: 30
+- identifier: 45a107c6-04ea-1aa3-19ae-8bd2f081d2cc
+  name: 'Session 3: Methane Leaks Field Trip "Safari"'
+  pageRef: /pages/session-3-methane-leaks-field-trip-safari
+  weight: 40
+- identifier: 51cf7069-e548-a3ac-92f1-5c983d96ac92
+  name: 'Session 4: Legal and Business Actions, Methane Leak Data Debrief'
+  pageRef: /pages/session-4-legal-and-business-actions-methane-leak-data-debrief
+  weight: 50
