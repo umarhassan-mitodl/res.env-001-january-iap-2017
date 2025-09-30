@@ -2,6 +2,8 @@
 content_type: page
 description: This page describes the objectives and structure of the "Legal and Business
   Actions, Methane Leak Data Debrief" session, and includes videos.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Session 4: Legal and Business Actions, Methane Leak Data Debrief'

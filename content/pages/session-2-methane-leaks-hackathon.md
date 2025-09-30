@@ -2,6 +2,8 @@
 content_type: page
 description: This page describes the objectives and structure of the "Methane Leaks
   Hackathon session, and includes video highlights of the session.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Session 2: Methane Leaks Hackathon'

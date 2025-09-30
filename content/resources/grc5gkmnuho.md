@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/7e2d38f144fa53c4c08b2f3b2c627967_GRc5GKMNuho.srt
 file_size: 35335
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

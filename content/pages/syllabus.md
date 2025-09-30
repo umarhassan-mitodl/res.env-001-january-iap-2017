@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This page summarizes the course objectives and topics for each session.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Syllabus
