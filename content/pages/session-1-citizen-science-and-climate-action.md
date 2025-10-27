@@ -18,7 +18,7 @@ Session structure: Two hours in a classroom, consisting of several lecture segme
 
 Review the goals and structure of the overall course, followed by two talks exploring the drivers of citizen science and community science, associated analytical methods and data collection.
 
-Instructors: Rajesh Kasturirangan ([ClimateX](https://climatex.mit.edu/)), Britta Voss (USGS fellow), Jeff Warren ([Public Lab](https://crowdandcloud.org/bio/jeff-warren))
+Instructors: Rajesh Kasturirangan ({{% resource_link "2086062a-c803-43c5-8486-2d5345e178c0" "ClimateX" %}}), Britta Voss (USGS fellow), Jeff Warren ({{% resource_link "38174a54-3373-4a04-a390-6644ffb3e7df" "Public Lab" %}})
 
 {{< resource uuid="35fe4720-f97e-f539-f587-6df4919b7ccd" >}}
 
@@ -29,13 +29,12 @@ Outline:
     - Slides: {{% resource_link "d85fb96d-d199-997c-fdbb-9326df015a2a" "Community Science (PDF - 1.2MB)" %}}
 - Renegotiating Expertise: Public Lab (Jeff Warren)
     - What are the objectives, how does it work, who participates, who sets the agenda, what types of questions can be answered, what are the challenges, how is it different from / complementary to "traditional" research.
-    - [Lecture slides and speaker notes](https://publiclab.org/notes/warren/01-18-2017/renegotiating-expertise-a-talk-at-climatex-mit)
 
 ## Part 2: Stories from the Field—Methane Leaks
 
 Introduce and discuss a specific example of citizen science field work: methane leaks from the natural gas infrastructure.
 
-Instructors: [Nathan Phillips](https://www.bu.edu/earth/people/faculty/nathan-phillips/) (Boston University), Audrey Schulman ([HEET](https://www.heetma.org/))
+Instructors: {{% resource_link "f8ac219c-9c2e-4743-aaab-24208cdd2894" "Nathan Phillips" %}} (Boston University), Audrey Schulman ({{% resource_link "3151bcd7-3792-4b97-b612-b8f935223ea9" "HEET" %}})
 
 {{< resource uuid="82716287-1426-d98c-4a6c-d19ce51e076c" >}}
 
@@ -50,6 +49,6 @@ Slides: {{% resource_link "a7efbad9-a2f0-c509-61ce-43baafb9432a" "Methane Gas Le
 
 Further reading on gas leaks:
 
-- Hendrick, Margaret F., Nathan Phillips, et al. "[Fugitive Methane Emissions from Leak-prone Natural Gas Distribution Infrastructure in Urban Environments](https://doi.org/10.1016/j.envpol.2016.01.094)." *Environmental Pollution* 213 (2016): 710–6. (The "superemitter" study)
-- Hausman, Catherine. "[Why Utilities Have Little Incentive to Plug Leaking Natural Gas](https://theconversation.com/why-utilities-have-little-incentive-to-plug-leaking-natural-gas-63092)," *The Conversation*, August 9, 2016.
-- McKenna, Phil. "[Methane Hazard Lurks in Boston's Aging, Leaking Gas Pipes, Study Says](https://insideclimatenews.org/news/30032016/boston-natural-gas-pipelines-leaking-methane-climate-change-explosion)," *Inside Climate News*, March 31, 2016.
+- Hendrick, Margaret F., Nathan Phillips, et al. "{{% resource_link "e165c091-a7f6-4648-a787-1871833a6d92" "Fugitive Methane Emissions from Leak-prone Natural Gas Distribution Infrastructure in Urban Environments" %}}." *Environmental Pollution* 213 (2016): 710–6. (The "superemitter" study)
+- Hausman, Catherine. "{{% resource_link "bbe52663-c3b3-42cf-a344-c505144f16bf" "Why Utilities Have Little Incentive to Plug Leaking Natural Gas" %}}," *The Conversation*, August 9, 2016.
+- McKenna, Phil. "{{% resource_link "882e0cc5-6982-4dfa-affb-3634d3ea4726" "Methane Hazard Lurks in Boston's Aging, Leaking Gas Pipes, Study Says" %}}," *Inside Climate News*, March 31, 2016.
