@@ -7,14 +7,13 @@ description: The class drove through some urban streets in a van equipped with a
 file: /courses/res-env-001-climate-action-hands-on-harnessing-science-with-communities-to-cut-carbon-january-iap-2017/f0ca7ff1089e461b6734d6a8bdb0ef76_res-env-001iap17-th.jpg
 file_size: 5174
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Participants in this class drove through some urban streets in a van equipped
     with a GPS-linked methane analyzer, producing data and visualizations like this.
     The height of the red spikes are proportional to measured methane concentrations.
     Lower left is near the MIT campus, with the so-called "Alps of Somerville" to
-    the upper right. (Image courtesy of Audrey Schulman / [HEET](https://www.heetma.org/).)
+    the upper right. (Image courtesy of Audrey Schulman / {{% resource_link "3151bcd7-3792-4b97-b612-b8f935223ea9"
+    "HEET" %}}.)
   credit: Image courtesy of Audrey Schulman / HEET.
   image-alt: Map image with red line showing the path of van, and some very high vertical
     spikes.

@@ -2,8 +2,6 @@
 content_type: page
 description: This page describes the objectives and structure of the "Legal and Business
   Actions, Methane Leak Data Debrief" session, and includes videos.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: 'Session 4: Legal and Business Actions, Methane Leak Data Debrief'
@@ -20,7 +18,7 @@ Session structure: Two-hour classroom session, consisting of several lecture seg
 Part 1: Environmental Legal Action, Scientific Evidence and Citizen Data
 ------------------------------------------------------------------------
 
-Instructor: Chris Nidel, Esq. ([environmental attorney](http://www.nidellaw.com/), [MITACAL](http://www.mitacal.org/))
+Instructor: Chris Nidel, Esq. ({{% resource_link "7d99b9e5-d078-43d4-9410-013eac437d68" "environmental attorney" %}}, {{% resource_link "b0795366-f286-4b9c-bef4-a4ac80c679e0" "MITACAL" %}})
 
 Learn about how citizen-collected data can be used in environmental legal cases. For instance, how do courts decide whether particular data is admissable as evidence?
 
@@ -29,7 +27,7 @@ Learn about how citizen-collected data can be used in environmental legal cases.
 Part 2: Bringing Climate Data into Business and Personal Choices — Fixing the Carbon Footprint
 ----------------------------------------------------------------------------------------------
 
-Instructor: Ory Zik ([Greenometry](https://opencorporates.com/companies/us_ma/001259502))
+Instructor: Ory Zik ({{% resource_link "382985b2-48ce-49c0-8f85-3796847bb5fb" "Greenometry" %}})
 
 Learn how better measurement of carbon footprints, as embodied in products and services, can bring market forces more effectively to bear on the climate crisis.
 
@@ -42,7 +40,7 @@ Part 3: Debrief on Methane Leak Data Field Trip
 
 Display and discuss the prior day's field data collection on methane gas leaks. Consider the strengths and weaknesses of the methods used, and implications for the next generation of tools. Discuss the overall state of methane leak measurement, fixes, and policies.
 
-Instructors: [Nathan Phillips](https://www.bu.edu/earth/people/faculty/nathan-phillips/) (Boston University), Audrey Schulman ([HEET](https://www.heetma.org/))
+Instructors: {{% resource_link "f8ac219c-9c2e-4743-aaab-24208cdd2894" "Nathan Phillips" %}} (Boston University), Audrey Schulman ({{% resource_link "3151bcd7-3792-4b97-b612-b8f935223ea9" "HEET" %}})
 
 {{< resource 9e4af4db-b436-cc22-02eb-d20656a3f619 >}}
 
